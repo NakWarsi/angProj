@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "WebLearn"
+  "defaultProject": "WebLearn",
+  "cli": {
+    "analytics": "b49f54fd-0f9e-4b25-9500-9db45cd7dadc"
+  }
 }
